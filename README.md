@@ -48,4 +48,17 @@ This repository is a comprehensive study guide and preparation resource for the 
 
 ### 7. **Oracle Database 23ai Integration**
 - **Vector Datatype**: Store embeddings for similarity searches.  
-- **Select AI**: Generate SQL from natural language prompts.  
+- **Select AI**: Generate SQL from natural language prompts.
+
+## Practice Exam Topics (Q1-Q40 Highlights)
+
+| Topic                  | Key Concepts                                                                 | Example Questions |
+|------------------------|-----------------------------------------------------------------------------|-------------------|
+| **Regression**         | Predict continuous values (e.g., house prices).                             | Q1, Q8, Q9        |
+| **Classification**     | Categorize data (e.g., spam detection, document types).                    | Q4, Q15, Q27      |
+| **Sequence Models**    | RNNs, LSTMs for time series/speech.                                         | Q12, Q13, Q21     |
+| **OCI Vision**         | Object detection, OCR, document classification.                             | Q17, Q28, Q33     |
+| **Generative AI**      | Fine-tuning, in-context learning, tokenization.                             | Q19, Q20, Q22     |
+| **AI Infrastructure**  | NVIDIA GPUs (A100/GB200), RDMA networks, OCI Storage.                       | Q18, Q19, Q32     |
+
+---
