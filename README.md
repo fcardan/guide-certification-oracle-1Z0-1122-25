@@ -5,6 +5,20 @@ This repository is a comprehensive study guide and preparation resource for the 
 
 ---
 
+## Exam Topic Breakdown
+
+| Objectives                          | % of Exam |
+|-------------------------------------|----------:|
+| **Intro to AI Foundations**         | 10%       |
+| **Intro to ML Foundations**         | 15%       |
+| **Intro to DL Foundations**         | 15%       |
+| **Intro to Generative AI & LLMs**   | 15%       |
+| **Get started with OCI AI Portfolio** | 15%     |
+| **OCI Generative AI and Oracle 23ai** | 10%     |
+| **Intro to OCI AI Services**        | 20%       |
+
+---
+
 ## Topics Covered
 
 ### 1. **Machine Learning Fundamentals**
@@ -49,6 +63,8 @@ This repository is a comprehensive study guide and preparation resource for the 
 ### 7. **Oracle Database 23ai Integration**
 - **Vector Datatype**: Store embeddings for similarity searches.  
 - **Select AI**: Generate SQL from natural language prompts.
+
+---
 
 ## Practice Exam Topics (Q1-Q40 Highlights)
 
