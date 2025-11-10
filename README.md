@@ -81,7 +81,7 @@ This repository is a comprehensive study guide and preparation resource for the 
 
 ## How to Use This Guide
 1. Review each topic and its associated concepts.  
-2. Practice with the included exam questions (see `practice-questions.md`).  
+2. Practice with example questions.
 3. Explore Oracle’s [AI Documentation](https://docs.oracle.com/en/cloud/ai/) for hands-on labs.  
 
 **Good luck with your certification!** 🚀
